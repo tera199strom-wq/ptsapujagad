@@ -89,7 +89,7 @@ export default function Hero() {
         className="absolute -bottom-[350px] md:-bottom-[650px] lg:-bottom-[800px] -right-[120px] md:-right-[220px] lg:-right-[300px] z-20 w-[450px] md:w-[700px] lg:w-[900px] pointer-events-none"
       >
         <img 
-          src="/smiling-caucasian-police-officer-uniform-standing-with-baton-indoors-front-view-bearded-cop.png" 
+          src="https://raw.githubusercontent.com/tera199strom-wq/ptsapujagad/refs/heads/main/pt-sapujagad-management-servis/src/components/smiling-caucasian-police-officer-uniform-standing-with-baton-indoors-front-view-bearded-cop.png" 
           alt="Security Officer" 
           className="w-full h-auto drop-shadow-[0_20px_40px_rgba(0,0,0,0.25)]"
           referrerPolicy="no-referrer"
